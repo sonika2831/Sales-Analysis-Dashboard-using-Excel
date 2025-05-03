@@ -1,11 +1,8 @@
 # 📊 Sales Analysis Dashboard
 
-![image](https://github.com/user-attachments/assets/9e6360e1-1156-4e2c-b490-238543e3819c)
-
-
 This repository contains an interactive **Sales Analysis Dashboard** designed to visualize and analyze sales performance across various categories, payment methods, and states. The dashboard helps in understanding key business metrics like sales amount, profit, quantity sold, and category-wise distribution.
 
-![Sales Dashboard](./bd6effc3-9ca6-4eac-92db-cb604bd5677a.png)
+![image](https://github.com/user-attachments/assets/9e6360e1-1156-4e2c-b490-238543e3819c)
 
 ## 🔍 Overview
 
